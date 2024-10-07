@@ -1,3 +1,4 @@
 Xiaobin Mei
-Northeastern University
-Working for BCNC
+Education: Northeastern University
+Major: Computer Science and Mathematics
+Graudation Date: Spring 2028
